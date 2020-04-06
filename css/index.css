@@ -1,11 +1,11 @@
 @font-face {
   font-family: Dosis;
-  src: url(font/Dosis-VariableFont_wght.ttf);
+  src: url("font/Dosis-VariableFont_wght.ttf");
 }
 
 @font-face {
   font-family: Righteous;
-  src: url(font/Righteous-Regular.ttf);
+  src: url("font/Righteous-Regular.ttf");
 }
 
 body{
