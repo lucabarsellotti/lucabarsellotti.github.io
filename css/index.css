@@ -4,4 +4,8 @@ body{
 
 #repository{
 	background-color: rgb(245, 245, 245);
+	border-radius: 5px;
+	position: fixed;
+	width: 33%;
+	left: 33%;
 }
