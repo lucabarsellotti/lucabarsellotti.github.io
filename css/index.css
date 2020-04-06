@@ -18,7 +18,10 @@ body{
 	position: fixed;
 	width: 46%;
 	left: 27%;
+	top: 5%;
 	height: 300px;
+	text-align: center;
+	box-shadow: 5px 10px;
 }
 
 h1{
