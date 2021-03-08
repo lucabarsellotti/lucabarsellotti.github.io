@@ -84,3 +84,10 @@ a{
   border-color: white;
   padding-left: 10px;
 }
+
+.project{
+  border-width: 0px 0px 0px 2px;
+  border-style: solid;
+  border-color: white;
+  padding-left: 10px;
+}
