@@ -8,28 +8,34 @@
   src: url("../font/Righteous-Regular.ttf");
 }
 
+@@font-face {
+  font-family: MajorMono;
+  src: url("../font/MajorMonoDisplay-Regular.ttf");
+}
+
 body{
 	background-color: #0a192f;
 }
 
+section{
+  width: 70%;
+  left: 15%;
+  top: 5%;
+  height: 300px;
+  text-align: center;
+}
+
 .content{
-  color: white;
-	border-radius: 5px;
-	position: fixed;
-	width: 70%;
-	left: 15%;
-	top: 5%;
-	height: 300px;
-	text-align: center;
-	box-shadow: 5px 10px;
+  color: rgb(200,200,200);
 }
 
 h1{
-	font-family: Righteous;
+	font-family: MajorMono;
 }
 
 h2{
-	font-family: Righteous;
+  color: white;
+	font-family: MajorMono;
 }
 
 a{
