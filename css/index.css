@@ -96,10 +96,12 @@ a{
   position: fixed;
   bottom: 40px;
   left: 40px;
+  z-index: 100;
 }
 
 #email{
   position: fixed;
   bottom: 80px;
   left: 40px;
+  z-index: 100;
 }
