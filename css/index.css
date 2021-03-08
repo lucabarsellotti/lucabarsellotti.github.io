@@ -3,14 +3,13 @@
   src: url("../font/Quicksand-VariableFont_wght.ttf");
 }
 
-@@font-face {
+@font-face {
   font-family: MajorMono;
   src: url("../font/MajorMonoDisplay-Regular.ttf");
 }
 
 .main{
   padding: 0px 150px;
-  width: 100%;
 }
 
 #me{
