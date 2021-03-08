@@ -8,6 +8,11 @@
   src: url("../font/MajorMonoDisplay-Regular.ttf");
 }
 
+@font-face {
+  font-family: Roboto;
+  src: url("../font/RobotoMono-VariableFont_wght.ttf");
+}
+
 .main{
   padding: 0px 150px;
 }
@@ -63,10 +68,10 @@ a{
 }
 
 .nav-bar-li{
+  float: left;
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
   font-family: monospace;
 }
