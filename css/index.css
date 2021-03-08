@@ -91,3 +91,15 @@ a{
   border-color: white;
   padding-left: 10px;
 }
+
+#linkedin{
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+}
+
+#email{
+  position: fixed;
+  bottom: 80px;
+  left: 40px;
+}
