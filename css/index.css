@@ -75,3 +75,9 @@ a{
   padding: 14px 16px;
   font-family: monospace;
 }
+
+.degree{
+  border-width: 0px 0px 2px 0px;
+  border-color: white;
+  padding-left: 10px;
+}
