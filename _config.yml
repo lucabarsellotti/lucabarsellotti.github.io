@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Luca Barsellotti"
 title_separator          : "-"
 name                     : &name "Luca Barsellotti"
-description              : &description "personal description"
+description              : &description "PhD Student at AImageLab (Unimore)"
 url                      : https://lucabarsellotti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lucabarsellotti/lucabarsellotti.github.io"
+repository               : "lucabarsellotti.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luca Barsellotti"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student at AImageLab (Unimore) on Open-World Semantic Segmentation"
   location         : "Modena"
   employer         :
   pubmed           :
