@@ -64,13 +64,15 @@
 }
 
 a {
-  color: #1772d0;
+  color: #007f5f;
   text-decoration: none;
+  text-shadow: 0 0 2px #80b918;
 }
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #48bfe3;
+  text-shadow: 0 0 3px #80ffdb;
   text-decoration: none;
 }
 
@@ -80,24 +82,24 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Space Mono', Verdana, Helvetica, sans-serif;
+  font-size: 12px;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Space Mono', Verdana, Helvetica, sans-serif;
+  font-size: 12px;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Space Mono', Verdana, Helvetica, sans-serif;
   font-size: 22px;
 }
 
 .papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Space Mono', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
@@ -105,8 +107,11 @@ h2 {
 .name {
   padding-top: 20px;
   margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Space Mono', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+  text-decoration: underline;
+  color: #007f5f;
+  text-shadow: 0 0 2px #80b918;
 }
 
 .one {
@@ -132,4 +137,8 @@ h2 {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+body {
+  background-color: #fbfff5;
 }
